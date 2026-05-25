@@ -5,6 +5,7 @@ langchain-community
 sentence-transformers
 faiss-cpu
 torch
+torchvision
 pypdf
 pytesseract
 pdf2image
