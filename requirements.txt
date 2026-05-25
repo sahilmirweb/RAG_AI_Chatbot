@@ -1,9 +1,8 @@
 streamlit
 google-generativeai
-langchain-text-spitters
 langchain-community
+langchain-text-splitters
 sentence-transformers==2.7.0
 faiss-cpu
-torch
 pypdf
 
