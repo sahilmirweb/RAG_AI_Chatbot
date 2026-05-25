@@ -1,11 +1,12 @@
-torch
-torchvision
-transformers
-sentence-transformers
+streamlit
+google-generativeai
 langchain
 langchain-community
+sentence-transformers
 faiss-cpu
-streamlit
+transformers
+torch
+torchvision
 pypdf
 pytesseract
 pdf2image
